@@ -7,3 +7,6 @@ Que tal ca
 Holaa
 
 Holaa
+Adios
+
+Hasta luego
